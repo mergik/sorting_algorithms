@@ -1,4 +1,5 @@
 # 0x1B. C - Sorting algorithms & Big O
+
 This project is about at least four different sorting algorithms written in C and what is the Big O notation, and how to evaluate the time complexity of an algorithm.
 
 | Project Name | Description     |
@@ -7,3 +8,6 @@ This project is about at least four different sorting algorithms written in C an
 | `1-insertion_sort_list.c, 1-O` | Insertion sort |
 | `2-selection_sort.c, 2-O` | Selection sort |
 | `3-quick_sort.c, 3-O` | Quick sort |
+| `100-shell_sort.c` | Shell sort |
+| `print_array.c, print_list.c` | Print array and list |
+| `sort.h` | Header file |
